@@ -1,0 +1,7 @@
+[Activity]
+name = HelloWorldPython
+activity_version = 6
+bundle_id = org.sugarlabs.HelloWorldPython
+exec = sugar-activity activity.HelloWorldPythonActivity
+icon = activity-helloworld
+license = GPLv2+
